@@ -15,3 +15,11 @@ Clean Spotify-style UI
 Works fully client-side (no server needed)
 
 Auto-refresh: fetch new art with updated token any time
+1️⃣ Run get_spotify_token.py → Get Spotify API token
+2️⃣ Run fetch_album_art.py → Generates spotify_top50_with_art.csv
+3️⃣ Run local server:
+
+bash
+Copy
+Edit
+python -m http.server 8000
