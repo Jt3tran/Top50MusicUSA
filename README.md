@@ -23,3 +23,5 @@ bash
 * Copy
 * Edit
 * python -m http.server 8000
+
+![Image](https://github.com/user-attachments/assets/d6dc0416-be7f-4111-a8cd-30aed21ab54e)
